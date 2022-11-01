@@ -1,0 +1,8 @@
+name "multiplcation"
+
+org 100h
+
+mov AX, 5h       
+mov BX, 10h    
+mul BX
+ret
